@@ -85,7 +85,7 @@ You can also run the script manually for testing purposes:
 
 ## License
 
-This project is licensed under the Apache 2 License. See the [LICENSE](LICENSE.md) file for details.
+This project is licensed under the Apache 2 License. See the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
